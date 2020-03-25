@@ -1,1 +1,1 @@
-https://natshien.github.io/
+https://natshien.github.io/rsschool-cv/
