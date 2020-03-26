@@ -41,9 +41,9 @@ I’m impressed by how programming connects creative process with logical thinki
 
 #### Education
 
-* 2011-2016 - Master degree in Cultural Studies, specialization in Media
-* Codecademy self-learning: HTML, CSS, JavaScript, SCSS, CSS Grid
-* October 2018 / May 2019 - Web Frontend Developer Bootcamp - stationary intense course ending up with certification
+* October 2011 - June 2016 - University of Cardinal Wyszynski in Warsaw, Bachelor and Master degree in Cultural Studies, specialization     in Media
+* Codecademy - self-learning, HTML, CSS, JavaScript, SCSS and CSS Grid modules passed
+* October 2018 - May 2019 - JavaScript Developer Bootcamp - stationary intense course ending up with certification
 * Dev.js community meetups
 * LinkedIn Learning Bootstrap course
 
